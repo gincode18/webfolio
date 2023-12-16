@@ -10,7 +10,7 @@ function ThemeChanger() {
     version="1.1"
     viewBox="0 0 500 500"
     xmlSpace="preserve"
-    className='h-16 w-16 lg:h-24  lg:w-24'
+    className='h-16 w-16 lg:h-24  lg:w-24 ml-4'
   >
     <ellipse
       cx="250"
